@@ -1,0 +1,6 @@
+{
+  "driver": "ODBC Driver 17 for SQL Server",
+  "server": "YOUR_SERVER_NAME",
+  "database": "AdventureWorks2022",
+  "trusted_connection": true
+}
